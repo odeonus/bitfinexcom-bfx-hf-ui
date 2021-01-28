@@ -120,7 +120,7 @@
     "case-sensitive-paths-webpack-plugin": "2.2.0",
     "cross-env": "^6.0.3",
     "css-loader": "2.1.1",
-    "electron": "7.1.8",
+    "electron": "9.4.0",
     "electron-builder": "22.2.0",
     "electron-installer-zip": "^0.1.2",
     "electron-packager": "^14.2.0",
